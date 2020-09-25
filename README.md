@@ -1,5 +1,25 @@
 # GoMarketplace
 
+
+<p align="center">
+ <a>
+  <img src="https://img.shields.io/github/last-commit/niltoneapontes/gomarketplace" alt="Last commit badge" />
+ </a>
+ <a>
+  <img src="https://img.shields.io/github/languages/count/niltoneapontes/gomarketplace" alt="Languages badge" />
+ </a>
+ <a>
+  <img src="https://img.shields.io/github/languages/code-size/niltoneapontes/gomarketplace" alt="Code size in bytes" />
+ </a>
+ <a>
+  <img src="https://img.shields.io/github/stars/niltoneapontes/gomarketplace?style=social" alt="Github repo stars" />
+ </a>
+ <a>
+  <img src="https://img.shields.io/github/followers/niltoneapontes?style=social" alt="Github followers" />
+ </a>
+</p>
+
+
 🛍️ GoMarketplace, um app fictício de compras desenvolvido durante o bootcamp GoStack da @Rocketseat.🚀
 
 Utilizamos a react-native-cli para criar a aplicação, que é capaz de utilizar o AsyncStorage e uma FakeAPI para adicionar e manipular itens em um carrinho.
